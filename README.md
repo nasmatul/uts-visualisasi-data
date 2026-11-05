@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Tautan Penting
-- **Live Interactive Dashboard:** [https://share.streamlit.io/username/repo-name/main/app.py](GANTI_DENGAN_LINK_LIVE_STREAMLIT_ANDA)
+- **Live Interactive Dashboard:** https://uts-visualisasi-data-zg5hccpg5q64zprkgmddj6.streamlit.app/
 - **Sumber Dataset Asli (Kaggle):** [Superstore Sales Dataset - Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ---
