@@ -13,7 +13,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     # Membaca dataset train.csv
-    df = pd.read_csv("data/train.csv")
+    df = pd.read_csv("train.csv")
     
     # Penanganan data kosong (Missing Value Handling)
     df['Postal Code'] = df['Postal Code'].fillna(0).astype(int)
